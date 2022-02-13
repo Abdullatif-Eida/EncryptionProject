@@ -2,9 +2,11 @@
 An Encryption using Steganography
 
 Encryption flowchart:
+
 ![image](https://user-images.githubusercontent.com/35701617/153746446-79c1a106-2cc3-4174-841b-546641e5e02d.png)
 
 Decryption flowchart:
+
 ![image](https://user-images.githubusercontent.com/35701617/153746452-0b222842-6c79-42d9-8101-fe5ee6fcf59e.png)
 
 Program execution (Encryption process):
