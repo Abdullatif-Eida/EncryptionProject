@@ -52,6 +52,7 @@ Program execution (Decryption process)
   Figure: Encrypted image
 
   My algorithm 
+  
   ![image](https://user-images.githubusercontent.com/35701617/153746623-a5650aa7-3655-43db-a99f-a8e90ee11075.png)
 
   If it is possible to say that the while condition will be repeated 8 times, but it will be called according to the size of the message, which is n, then this means that the           complexity of the algorithm is O(n). So, the worst-case scenario for this algorithm is O (8 * n) = O(n) which is somewhat good
