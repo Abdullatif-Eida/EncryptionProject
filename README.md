@@ -1,14 +1,6 @@
 # EncryptionProject
 An Encryption using Steganography
 
-Encryption flowchart:
-
-![image](https://user-images.githubusercontent.com/35701617/153746446-79c1a106-2cc3-4174-841b-546641e5e02d.png)
-
-Decryption flowchart:
-
-![image](https://user-images.githubusercontent.com/35701617/153746452-0b222842-6c79-42d9-8101-fe5ee6fcf59e.png)
-
 Program execution (Encryption process):
 
   ![image](https://user-images.githubusercontent.com/35701617/153746464-9ed16c21-50e2-4df2-b6df-7d735a307b3a.png)
@@ -58,4 +50,12 @@ Program execution (Decryption process)
   If it is possible to say that the while condition will be repeated 8 times, but it will be called according to the size of the message, which is n, then this means that the           complexity of the algorithm is O(n). So, the worst-case scenario for this algorithm is O (8 * n) = O(n) which is somewhat good
   Now by looking at that result in the statistical chart above, we find that this algorithm is somewhat bad.
 
+
+Encryption flowchart:
+
+![image](https://user-images.githubusercontent.com/35701617/153746446-79c1a106-2cc3-4174-841b-546641e5e02d.png)
+
+Decryption flowchart:
+
+![image](https://user-images.githubusercontent.com/35701617/153746452-0b222842-6c79-42d9-8101-fe5ee6fcf59e.png)
 
